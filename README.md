@@ -1,1 +1,1 @@
-![Dashboar Screenshot](https://github.com/mBohunickaCharles/streamlit_Sales_Dashboard/blob/master/sales_dashboard.png)
+![Profile banner](https://github.com/mBohunickaCharles/mBohunickaCharles/blob/main/assets/banner.png)
