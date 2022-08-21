@@ -7,4 +7,5 @@ I'm Martina, data scientist specialised on data insights. I like creating intera
 
 :mailbox: 
 
-[![Twitter Badge](https://img.shields.io/badge/-@MBohunicka-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MBohunicka)](https://twitter.com/MBohunicka) [![Linkedin Badge](https://img.shields.io/badge/-Martina-Bohunicka-Charles-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martina-bohunická-charles-22b468b1//)
+[![Twitter Badge](https://img.shields.io/badge/-@MBohunicka-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MBohunicka)](https://twitter.com/MBohunicka) [![Linkedin Badge](https://img.shields.io/badge/-Martina Bohunicka Charles-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martina-bohunická-charles-22b468b1//)
+ 
