@@ -1,1 +1,1 @@
-![Profile banner](https://github.com/mBohunickaCharles/mBohunickaCharles/blob/main/assets/banner.png,width = 1000)
+![Profile banner](https://github.com/mBohunickaCharles/mBohunickaCharles/blob/main/assets/banner.png | width = 1000)
