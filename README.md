@@ -10,4 +10,4 @@ I'm Martina, data scientist specialised on data insights. I like creating intera
  
 :wrench: Toolbox
 
-![tableau](https://img.shields.io/badge/DataViz-tableau-informational?style=plastic&logo=tableau&logoColor=white&color=2bbc8a) ![power bi](https://img.shields.io/badge/DataViz-Power_BI-informational?style=plastic&logo=power_bi&logoColor=white&color=2bbc8a)
+![tableau](https://img.shields.io/badge/DataViz-tableau-informational?style=plastic&logo=tableau&logoColor=white&color=2bbc8a) ![power bi](https://img.shields.io/badge/DataViz-Power_BI-informational?style=plastic&logo=powerbi&logoColor=white&color=2bbc8a)
