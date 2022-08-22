@@ -8,3 +8,5 @@ I'm Martina, data scientist specialised on data insights. I like creating intera
 
 [![Twitter Badge](https://img.shields.io/badge/-@MBohunicka-1ca0f1?style=plastic&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MBohunicka)](https://twitter.com/MBohunicka) [![Linkedin Badge](https://img.shields.io/badge/-Martina-0e76a8?style=plastic&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martina-bohunická-charles-22b468b1//)
  
+:tool: Toolbox
+![](https://img.shields.io/badge/<dataviz>-<tableau>-informational?style=plastic&logo=<tableau>&logoColor=white&color=2bbc8a)
