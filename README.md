@@ -24,3 +24,7 @@ I'm Martina, data scientist specialised on data insights. I like creating intera
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mBohunickaCharles&show_icons=true&theme=highcontrast">
 <imb height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mBohunickaCharles&show_icons=true&layout=compact&theme=highcontrast">
 </p>
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mBohunickaCharles&layout=compact)](https://github.com/mBohunickaCharles/github-readme-stats)
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mBohunickaCharles&layout=compact)
