@@ -21,7 +21,7 @@ I'm Martina, data scientist specialised on data insights. I like creating intera
 :chart_with_upwards_trend: My Github Statistics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mBohunickaCharles&show_icons=true&theme=chartreuse-dark" align = "center"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mBohunickaCharles&show_icons=true&locale=en&theme=chartreuse-dark" align = "center"/>
+<img height="180em" width="600em" src="https://github-readme-stats.vercel.app/api?username=mBohunickaCharles&show_icons=true&theme=gotham" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mBohunickaCharles&show_icons=true&locale=en&theme=gotham" align = "center"/>
 </p>
 
