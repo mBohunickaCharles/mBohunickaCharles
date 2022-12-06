@@ -25,6 +25,6 @@ I'm Martina, data scientist specialised on data insights. I like creating intera
 
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mBohunickaCharles&show_icons=true" align = "center"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mBohunickaCharles&show_icons=true&locale=en&layout=compact" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mBohunickaCharles&show_icons=true&locale=en" align = "center"/>
 </p>
 
