@@ -5,7 +5,7 @@
 I'm Martina, data scientist specialised on data insights. I like creating interactive data visualisations that are able to provide actionable information about data. I love learning new tools and coding.
 
 <p align="center">
-<img height="150em" src="https://github.com/mBohunickaCharles/mBohunickaCharles/blob/main/assets/charts.gif"/> 
+<img height="85em" src="https://github.com/mBohunickaCharles/mBohunickaCharles/blob/main/assets/charts.gif"/> 
 </p> 
 
 #### :mailbox: Reach me out!
