@@ -26,6 +26,4 @@ I'm Martina, data scientist specialised on data insights. I like creating intera
 </p>
 
 
-<p align="center">
-<img height="180em" src="[https://github-readme-stats.vercel.app/api?username=mBohunickaCharles&show_icons=true&theme=gotham](https://assets3.lottiefiles.com/packages/lf20_ulr09ngd.json)">
-</p>
+![lottie]([https://github-readme-stats.vercel.app/api?username=mBohunickaCharles&show_icons=true&theme=gotham](https://assets3.lottiefiles.com/packages/lf20_ulr09ngd.json](https://assets3.lottiefiles.com/packages/lf20_ulr09ngd.json))
