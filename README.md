@@ -14,4 +14,4 @@ I'm Martina, data scientist specialised on data insights. I like creating intera
 
 
 ![Martina's GitHub stats](https://github-readme-stats.vercel.app/api?username=mBohunickaCharles&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mBohunickaCharles&theme=radical)](https://github.com/mBohunickaCharles/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mBohunickaCharles&theme=radical&layout=compact)](https://github.com/mBohunickaCharles/github-readme-stats)
