@@ -2,11 +2,15 @@
 
 ## Hi! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-I'm Martina, data scientist specialised on data insights. I like creating interactive data visualisations that are able to provide actionable information about data. I love learning new tools automating boring stuff and coding.
+I'm Martina, data scientist specialised on data insights. I like creating interactive data visualisations that are able to provide actionable information about data.
 
 <p align="center">
 <img height="100em" src="https://github.com/mBohunickaCharles/mBohunickaCharles/blob/main/assets/charts.gif"/> 
 </p> 
+
+❤️ I love learning new tools automating boring stuff and coding.
+📚 I'm currently learnign streamlit.
+⭐ I'm looking to build my portfolio and collaborate. <br><br/>
 
 #### :mailbox: Reach me out!
 
