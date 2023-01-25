@@ -26,8 +26,8 @@ I'm Martina, data scientist specialised on data insights. I like creating intera
 
 #### :chart_with_upwards_trend: My Github Statistics
 
-<p align="left">
-<img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api?username=mBohunickaCharles&show_icons=true&theme=algolia&include_orgs=true" align = "center"/>  
+<p align="center">
+<img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api?username=mBohunickaCharles&include_orgs=true&include_orgs=true&layout=compact&theme=algolia&langs_count=10&hide_border=1&hide=jupyter%20notebook" align = "center"/> <img height="180em" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=mBohunickaCharles&include_orgs=true&include_orgs=true&theme=algolia&langs_count=5&hide_border=1&hide=jupyter%20notebok" align = "center" />
 </p>
 
 <br/>
