@@ -24,6 +24,15 @@ I'm Martina, data scientist specialised on data insights. I like creating intera
   
 ![excel](https://img.shields.io/badge/Microsoft_365-Excel-informational?style=plastic&logo=MicrosoftExcel&logoColor=white&color=f25022) ![word](https://img.shields.io/badge/Microsoft_365-Word-informational?style=plastic&logo=MicrosoftWord&logoColor=white&color=f25022) ![power point](https://img.shields.io/badge/Microsoft_365-Power_Point-informational?style=plastic&logo=MicrosoftPowerPoint&logoColor=white&color=f25022) ![Outlook](https://img.shields.io/badge/Microsoft_365-Outlook-informational?style=plastic&logo=MicrosoftOutlook&logoColor=white&color=f25022) ![Teams](https://img.shields.io/badge/Microsoft_365-Teams-informational?style=plastic&logo=MicrosoftTeams&logoColor=white&color=f25022)  <br/>
 
+
+#### :name_badge: My Badges
+
+To see all the other badges are [here](https://www.credly.com/users/martina-bohunicka/badges)
+
+<!--START_SECTION:badges-->
+
+<!--END_SECTION:badges-->
+
 #### :chart_with_upwards_trend: My Github Statistics
 
 <p align="center">
