@@ -31,7 +31,7 @@ I'm Martina, data scientist specialised on data insights. I like creating intera
 </p>
 <br/>
 
-#### :paperclips: Check out my Organizations:
+#### :paperclips: Check out my Organizations!
 
 - [Streamlit Projects](https://github.com/Streamlit-Projects)
 - [SQL Projects](https://github.com/SQL-Project-Solutions)
