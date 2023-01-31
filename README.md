@@ -27,11 +27,12 @@ I'm Martina, data scientist specialised on data insights. I like creating intera
 
 #### :name_badge: My Badges
 
-To see all the other badges are [here](https://www.credly.com/users/martina-bohunicka/badges)
+To see all the other badges click [here](https://www.credly.com/users/martina-bohunicka/badges)
 
 <!--START_SECTION:badges-->
-
 <!--END_SECTION:badges-->
+
+<br/>
 
 #### :chart_with_upwards_trend: My Github Statistics
 
