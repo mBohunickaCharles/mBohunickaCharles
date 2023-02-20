@@ -10,7 +10,7 @@ I'm Martina, data scientist specialised on data insights. I like creating intera
 
 ❤️ I love learning new tools automating boring stuff and coding.
 
-📚 I'm currently learnign streamlit.
+📚 I'm currently learning streamlit.
 
 ⭐ I'm looking to build my portfolio and collaborate. <br><br/>
 
