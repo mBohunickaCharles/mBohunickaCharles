@@ -10,9 +10,9 @@ I'm Martina, data scientist specialised on data insights. I like creating intera
 
 ❤️ I love learning new tools automating boring stuff and coding.
 
-📚 I'm on a mission to learn streamlit.
+📚 I'm currenly learning Python, Streamlit and Machine Learning.
 
-⭐ I'm looking to build my portfolio and collaborate. <br><br/>
+🚀 I'm looking forward to study Artificial Intelligence from September 2023. <br><br/>
 
 #### :mailbox: Reach me out!
 
