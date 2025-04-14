@@ -8,11 +8,11 @@ I'm Martina, data scientist specialised on data insights. I like creating intera
 <img height="100em" src="https://github.com/mBohunickaCharles/mBohunickaCharles/blob/main/assets/charts.gif"/> 
 </p> 
 
-❤️ I love learning new tools automating boring stuff and coding.
+❤️ I love learning new skills, tools and automating boring stuff.
 
-📚 I'm currenly learning Python, Streamlit and Machine Learning.
+📚 I enjoy learning Python, Machine Learning, Deep Learning and AI.
 
-🚀 I'm looking forward to study Artificial Intelligence from September 2023. <br><br/>
+🚀 Since October 2023, I have been studying MSc. in Artificial Intelligence at University of West London. <br><br/>
 
 #### :mailbox: Reach me out!
 
